@@ -1,0 +1,5 @@
+[
+  {"src":"redpack.png","id":"image1"},
+  {"src":"sounds/victory.mp3","id":"wrongSound"},
+  {"src":"sounds/boom.mp3","id":"rightSound"}
+]
